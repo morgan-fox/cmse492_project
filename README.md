@@ -1,4 +1,4 @@
-# 2024-2025 Premier League Seaon Prediction 
+# 2024-2025 Premier League Season Prediction 
 
 ## Overview 
 This project will incorperate a machine learning model that predicts the outcomes for the 2024-2025 Premier League season based on historical match data found on kaggle. The dataset will be used to train models to predict match outcomes, as well as evaluate the model’s performance. The goal is to create a predictive model that accurately estimates team standings and other outcomes throughout the season. 
