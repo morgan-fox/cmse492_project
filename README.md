@@ -10,3 +10,16 @@ This project will incorperate a machine learning model that predicts the outcome
 - Evaluate the model to assess performance and make imporvemets as needed. 
 - Using the final model to predict the outcomes of matches in the 2024-2025 season.
 - Provide visualizations into model predictions and performance.
+
+## Project Structure
+
+├── data/                     
+│   └── Premier_League.csv    
+├── notebooks/                
+├── src/                      
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── train_model.py
+│   └── evaluate_model.py
+├── README.md               
+└── requirements.txt          
