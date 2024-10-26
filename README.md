@@ -22,4 +22,18 @@ This project will incorperate a machine learning model that predicts the outcome
 │   ├── train_model.py
 │   └── evaluate_model.py
 ├── README.md               
-└── requirements.txt          
+└── requirements.txt 
+```
+
+## Setup 
+- Clone Repository using git clone https://github.com/morgan-fox/cmse492_project.git and cd cmse492_project
+- Install nececssary dependencies using pip install -r requirements.txt
+- Download the Premier_League.csv dataset located in the data folder
+
+## Requirements 
+Required Libraries:
+- Numpy
+- Pandas
+- Seaborn
+- Scikit-learn
+- Matplotlib
