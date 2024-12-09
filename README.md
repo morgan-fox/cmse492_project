@@ -8,7 +8,7 @@ This project will incorperate a machine learning model that predicts the outcome
 - Utilizing feature engineering to improve model prediction accuracy.
 - Using classification to train and test the model in order to predict match outcomes, optimizing for accuracy, precision, and recall.
 - Evaluate the model to assess performance and make imporvemets as needed. 
-- Using the final model to predict the outcomes of matches in the 2024-2025 season.
+- Using best performing model to predict the outcomes of matches in the 2024-2025 season.
 - Provide visualizations into model predictions and performance.
 
 ## Project Structure
