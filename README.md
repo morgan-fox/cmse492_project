@@ -37,3 +37,11 @@ Required Libraries:
 - Seaborn
 - Scikit-learn
 - Matplotlib
+
+
+## Updated Results 
+Best performing model:
+- XGBoost
+
+Predicted League Standings
+![image](https://github.com/user-attachments/assets/105db2a6-659a-4f59-a80e-1aa4e59d607f)
